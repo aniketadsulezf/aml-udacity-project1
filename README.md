@@ -163,3 +163,6 @@ For HyperDrive you need custom model with defined hyperparameter and their range
 ## Future work
 1. Experiment with different hyperparameters and sampling methods like gird sampling or random sampling on the Scikit-learn LogicRegression model or other custom-coded machine learning models
 2. Better data preprocessing - handling class imbalance, utilize model interpretability to get insights about features which will help in better feature engineering
+
+## Proof of cluster clean up
+I have used delete() method to delete the compute cluster at the end of Jupyter Notebook.
